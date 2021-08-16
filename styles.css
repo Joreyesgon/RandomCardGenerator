@@ -1,0 +1,62 @@
+body{
+    background-color: green;
+}
+
+.Container{
+	width: 300px;
+	height: 450px;
+	border-radius: 25px;
+	margin: auto;
+	background-color: white;
+}
+
+.cardTop{
+	padding-top: 0px;
+	margin-bottom: 10px;
+}
+
+
+.iconTop{
+  font-size: 90px;
+  padding-left: 5px;
+}
+
+.cardNumber{
+	font-size: 150px;
+	text-align: center;
+}
+
+.cardNumber p{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.cardBottom{
+	margin-top: 40px;
+	padding-right: 7px;
+	font-size: 95px;
+	margin-bottom: 15px;
+}
+
+.iconBottom{
+    transform: rotate(180deg);
+}
+
+.theButton{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: lightslategray;
+    color: white;
+    border: none;
+    position: relative;
+    font-size: 20px;
+    margin-top: 10px;
+	margin-left: 45%;
+	margin-right: 55%;
+}
+
+.theButton:hover{
+    background-color: black;
+}
+
