@@ -1,5 +1,3 @@
-console.log("Hola Chefo!")
-
 window.onload = function () {
 window.genCard = function () {
 
@@ -24,7 +22,6 @@ window.genCard = function () {
             }
         }
     randomCard();
-
 };
 
     window.genCard();
